@@ -1,0 +1,39 @@
+{ "Users" : [
+  {
+    "id": 345,
+    "username":"user1",
+    "password":"password",
+    "uid": "0b72100e-bb44-4c18-bba1-2253aec9437a",
+    "account_number": "6365853292",
+    "iban": "GB51ABBJ28501515328486",
+    "bank_name": "ABN AMRO MEZZANINE (UK) LIMITED",
+    "routing_number": "255684336",
+    "Emailadd": "a@gmail.com",
+    "active": true
+  },
+  {
+    "id": 1836,
+    "username":"user2",
+    "password":"password",
+    "uid": "48ed9898-8171-4abb-98ae-825a5bfc5fa9",
+    "account_number": "6238371967",
+    "iban": "GB93ILZW17044476501173",
+    "bank_name": "ABN AMRO HOARE GOVETT SECURITIES",
+    "routing_number": "268858463",
+    "Emailadd": "b@gmail.com",
+    "active":false
+  },
+  {
+    "id": 9218,
+    "username":"user3",
+    "password":"password",
+    "uid": "0177390b-2017-4793-8540-dce5103e0df2",
+    "account_number": "1840879647",
+    "iban": "GB61QTIQ48968044330658",
+    "bank_name": "AAC CAPITAL PARTNERS LIMITED",
+    "routing_number": "237346087",
+    "Emailadd": "c@gmail.com",
+    "active":true
+  }
+]
+}
